@@ -4,10 +4,10 @@ This project analyzes a large-scale human protein-protein interaction (PPI) netw
 
 ---
 ## Repository Structure
-code/ # Python notebooks/scripts used for analysis
-plots/ # Visualizations generated during analysis
-results/ # Output files (e.g., top nodes by degree/centrality)
-README.md # Project summary and methodology
+code/ # Python notebooks/scripts used for analysis.
+plots/ # Visualizations generated during analysis.
+results/ # Output files (e.g., top nodes by degree/centrality).
+README.md # Project summary and methodology.
 
 ---
 

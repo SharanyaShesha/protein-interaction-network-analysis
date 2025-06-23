@@ -54,6 +54,7 @@ MYC – 2817
 CCNF – 2798
 CUL3 – 2656
 TRIM25 – 2497
+
 ---
 
 ### 2. Degree Distribution Plot
@@ -87,6 +88,7 @@ Nodes acting as critical bridges in the network: CCNF, UBC, NR3C1, TRIM25, EGFR,
 
 ### 5. Top 10 Nodes by Closeness Centrality
 Nodes that are most central in terms of average shortest path: 57664, 25962, 7157, 43740578, 7706, 4609, 1994, 7316, 351, 3191.
+
 ---
 
 ## Interpretation
@@ -105,6 +107,6 @@ The analysis confirms that the human PPI network exhibits:
 ---
 ## Author
 Sharanya Sheshadri
-Graduate Student – MS in Bioinformatics
+Graduated Masters Student- Major Bioinformatics.
 
 
